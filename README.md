@@ -14,3 +14,4 @@ Supported Languages:
 - Bash 
 
 For greatest enjoyment, run script from directory closest to your desired output directory.
+Don't forget to add +x to nuscript.pl to make executable. 
