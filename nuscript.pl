@@ -128,7 +128,6 @@ print "                         '      \n";
         system("chmod uo+rx $usrname$lang");
         }
 
-                # Commands for Custom Pathing!
                 if ($pathbinary eq 2) {     
                 system ("mv $usrname$lang $path");
                 }
